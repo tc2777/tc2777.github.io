@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'not a blind affection, and Isabella always thinks as he does;',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      "'Oh, don't bother ME,' said the Duchess; 'I never could abide figures!'",
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'And in his Royaltie of Nature reignes that'      
 };
 
 function status(statusText) {
